@@ -1,12 +1,12 @@
 # Playbook Entry #1 – Setup & AI Awareness
-**Student:** [First Last]  
+**Student:** [Alexandra Drum]  
 **Course:** CYBR-2101 – Python Essentials (SL)  
-**Date:** [MM/DD/YYYY]
+**Date:** [10/23/2025]
  
 ## Environment Setup Summary
-- Python Version Installed: ____  
-- VS Code Version: ____  
-- Verified GitHub Access: Yes/No  
+- Python Version Installed: **Yes**  
+- VS Code Version:** Yes**  
+- Verified GitHub Access: **Yes** 
 - Joined Repositories: Playbook ✅  Portfolio ✅  Lab 1 ✅  
  
 ## Commands / Notes
