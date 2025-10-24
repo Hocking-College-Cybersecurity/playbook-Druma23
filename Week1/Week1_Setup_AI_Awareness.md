@@ -5,7 +5,7 @@
  
 ## Environment Setup Summary
 - Python Version Installed: **Yes**  
-- VS Code Version:** Yes**  
+- VS Code Version: **Yes**  
 - Verified GitHub Access: **Yes** 
 - Joined Repositories: Playbook ✅  Portfolio ✅  Lab 1 ✅  
  
