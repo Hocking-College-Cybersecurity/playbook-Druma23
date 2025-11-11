@@ -19,4 +19,4 @@
 - [Desktop Screenshot
 ](https://drive.google.com/file/d/1gdiShyFr39EOsx2aLgpoXonKMJFSNMDR/view?usp=drive_link)
 - [Powershell Screenshot](https://drive.google.com/file/d/1RVPWeB8sZ4KeHYcImAGsihZn_HBWqAv8/view?usp=drive_link)
-- [System Properties]([https://drive.google.com/file/d/1gdiShyFr39EOsx2aLgpoXonKMJFSNMDR/view?usp=drive_link](https://drive.google.com/file/d/1gdiShyFr39EOsx2aLgpoXonKMJFSNMDR/view?usp=drive_link))
+-[ System Properties](https://drive.google.com/file/d/1gdiShyFr39EOsx2aLgpoXonKMJFSNMDR/view?usp=drive_link)
