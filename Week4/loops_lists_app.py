@@ -14,7 +14,7 @@ def display_items():
         # Loop through each item in the list
         for i, item in enumerate(items, start=1):
             print(f"{i}. {item}")
-    print("---------------------\n")
+    print("---\n")
 
 # Menu loop runs until users choose to exit
 while True:
