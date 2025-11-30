@@ -3,7 +3,7 @@
 Playbook Entry #6
 Student: [Alexandra Drum]
 Course: CYBR-2101 – Python Essentials (SL) 
-Date: [11/14/2025]
+Date: [11/29/2025]
 
 ## Environment Setup Summary: 
 Python Version Installed: Yes VS Code Version: Yes Verified GitHub Access: Yes Joined Repositories: Playbook ✅ Portfolio ✅ Lab 6 ✅
