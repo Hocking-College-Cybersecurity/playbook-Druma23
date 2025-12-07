@@ -1,0 +1,9 @@
+Math: math, mathematics, calculus, calc, algebra, geometry
+English: english, comp, composition, eng, lit, literature
+Science: science, biology, chemistry, physics
+History: history, hist, government, civics, gov, social studies
+Language: spanish, french, german, language, lang
+Art: art, drawing, painting, sketch
+Documents: doc, docx, pdf, txt
+Images: jpg, jpeg, gif, png
+random: ran, random, misc
